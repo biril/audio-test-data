@@ -15,6 +15,8 @@ profile used was 'MP3 - MPEG Layer-3 Audio'.
 32000_048_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  48 kbps, 32 kHz, JntStereo
 32000_064_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 32 kHz, Monaural
 32000_064_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 32 kHz, JntStereo
+32000_096_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 32 kHz, Monaural
+32000_096_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 32 kHz, JntStereo
 32000_112_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 32 kHz, Monaural
 32000_112_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 32 kHz, JntStereo
 32000_128_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 32 kHz, Monaural
@@ -35,6 +37,8 @@ profile used was 'MP3 - MPEG Layer-3 Audio'.
 44100_048_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  48 kbps, 44.1 kHz, JntStereo
 44100_064_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 44.1 kHz, Monaural
 44100_064_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 44.1 kHz, JntStereo
+44100_096_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 44.1 kHz, Monaural
+44100_096_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 44.1 kHz, JntStereo
 44100_112_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 44.1 kHz, Monaural
 44100_112_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 44.1 kHz, JntStereo
 44100_128_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural
@@ -55,6 +59,8 @@ profile used was 'MP3 - MPEG Layer-3 Audio'.
 48000_048_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  48 kbps, 48 kHz, JntStereo
 48000_064_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 48 kHz, Monaural
 48000_064_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  64 kbps, 48 kHz, JntStereo
+48000_096_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 48 kHz, Monaural
+48000_096_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1,  96 kbps, 48 kHz, JntStereo
 48000_112_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 48 kHz, Monaural
 48000_112_s.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 112 kbps, 48 kHz, JntStereo
 48000_128_m.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, Monaural
